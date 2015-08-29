@@ -1,0 +1,12 @@
+  <attributeList>
+    <attribute>cu</attribute>
+    <attribute>location</attribute>
+    <attribute>maxrh</attribute>
+    <attribute>maxtemp</attribute>
+    <attribute>minrh</attribute>
+    <attribute>mintemp</attribute>
+    <attribute>rh</attribute>
+    <attribute>temp_units</attribute>
+    <attribute>temperature</attribute>
+    <attribute>time_stamp</attribute>
+  </attributeList>
